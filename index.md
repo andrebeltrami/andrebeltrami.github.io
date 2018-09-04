@@ -2,23 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Michael 1
+# André Luiz Beltrami Rocha
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Sub 1
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Formação Acadêmica
+
+## Sub 2
+
+Projetos
+
+## Sub 3
+
+
+### Contato 
+
+```
+The final element.
+```
 
 ### Header 3
 
